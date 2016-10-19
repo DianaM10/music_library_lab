@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    line-height: 0;
+    padding: 0;
+    font-family:'Wendy One', sans-serif;
+    font-size: 45px;
+}
+
+h1 span {
+    background: #fff;
+    padding: 0 15px;
+}
+
+h2 {
+  text-align: center;
+  font-family:'Wendy One', sans-serif;
+  color: black;
+  font-size: 21px;
+}
+
+p{
+    text-align: center;
+    width: 600px;
+    margin: 20px auto 20px auto;
+    font-family: 'Libre Franklin', sans-serif;
+    color: #595959 ;
+    font-size: 14px;
+  }
+
+form {
+  text-align: center;
+  font-family:'Libre Franklin', sans-serif;
+  color: black;
+  font-size: 12px;
+}
+
+label {
+  margin: 8px;
+  color: grey;
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 12px;
+  width: 150 px;
+}
