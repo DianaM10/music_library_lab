@@ -1,9 +1,9 @@
 <h1><span>Artist</span></h1>
 
 <% @artists.each do |artist| %>
-  <b>Name:</b>
+  <h2>Name:</h2>
   <p><%= artist.name() %></p>
 
-    <a href="/artists/<%= artist.id %>">View</a>
+    <p><a href="/artists/<%= artist.id %>">View</a></p>
     <hr>
   <% end %>
