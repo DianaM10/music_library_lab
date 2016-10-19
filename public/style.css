@@ -3,7 +3,7 @@ h1 {
     border-bottom: 1px solid #ddd;
     line-height: 0;
     padding: 0;
-    font-family:'Wendy One', sans-serif;
+    font-family: 'Orbitron', sans-serif;
     font-size: 45px;
 }
 
@@ -13,7 +13,7 @@ h1 span {
 }
 
 h2 {
-  font-family:'Wendy One', sans-serif;
+  font-family: 'Russo One', sans-serif;
   color: black;
   font-size: 21px;
   text-align: center;
@@ -25,24 +25,29 @@ p{
     text-align: center;
     width: 600px;
     margin: 20px auto 20px auto;
-    font-family: 'Libre Franklin', sans-serif;
-    color: #595959 ;
+    font-family: 'Russo One', sans-serif;
+    color: red;
     font-size: 14px;
   }
 
   b {
     text-align: center;
     vertical-align: middle;
-    font-family: 'Libre Franklin', sans-serif;
-    color: grey;
+    font-family: 'Russo One', sans-serif;
+    color: black;
     font-size: 16px;
   }
 
 label {
   margin: 8px;
-  color: grey;
-  font-family: 'Libre Franklin', sans-serif;
-  font-size: 12px;
+  color: orange;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 18px;
   width: 150 px;
 }
 
+body {
+  background-image: url(https://www.discoverwellingborough.co.uk/wp-content/uploads/2016/08/music-at-golden-liom.jpg);
+  background-size: 2000px 1800px;
+      background-repeat: no-repeat
+}
